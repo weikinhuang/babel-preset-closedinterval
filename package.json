@@ -1,0 +1,13 @@
+{
+  "name": "babel-preset-closedinterval",
+  "version": "1.0.0",
+  "description": "Babel preset for ClosedInterval",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@git.weikinhuang.com:8722/closedinterval/babel-preset.git"
+  },
+  "author": "Wei Kin Huang",
+  "license": "MIT",
+  "homepage": "https://git.weikinhuang.com/closedinterval/babel-preset"
+}
