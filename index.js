@@ -1,6 +1,6 @@
 module.exports = {
   presets : [
-    [ require('babel-preset-es2015'), { modules: false } ],
+    [ 'babel-preset-es2015', { modules: false } ],
     require('babel-preset-es2016'),
     require('babel-preset-stage-3'),
     require('babel-preset-stage-2'),
