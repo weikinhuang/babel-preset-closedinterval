@@ -3,6 +3,9 @@
   "version": "1.0.1",
   "description": "Babel preset for ClosedInterval",
   "main": "index.js",
+  "scripts": {
+    "prepublish": "bash util/prepublish.sh"
+  },
   "repository": {
     "type": "git",
     "url": "ssh://git@git.weikinhuang.com:8722/closedinterval/babel-preset.git"
@@ -10,6 +13,9 @@
   "author": "Wei Kin Huang",
   "license": "MIT",
   "homepage": "https://git.weikinhuang.com/closedinterval/babel-preset",
+  "engines": {
+    "npm": ">=3.0.0"
+  },
   "dependencies": {
     "babel-plugin-istanbul": "^2.0.0",
     "babel-plugin-transform-es5-property-mutators": "^6.8.0",

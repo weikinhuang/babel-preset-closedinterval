@@ -5,7 +5,7 @@
 ## Install
 
 ```sh
-npm install --save git+ssh://git@git.weikinhuang.com:8722/closedinterval/babel-preset.git
+npm install --save babel-preset-closedinterval
 ```
 
 ## Usage
