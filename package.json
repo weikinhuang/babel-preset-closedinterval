@@ -3,16 +3,13 @@
   "version": "1.0.2",
   "description": "Babel preset for ClosedInterval",
   "main": "index.js",
-  "scripts": {
-    "prepublish": "bash util/prepublish.sh"
-  },
   "repository": {
     "type": "git",
-    "url": "ssh://git@git.weikinhuang.com:8722/closedinterval/babel-preset.git"
+    "url": "https://github.com/weikinhuang/babel-preset-closedinterval.git"
   },
   "author": "Wei Kin Huang",
   "license": "MIT",
-  "homepage": "https://git.weikinhuang.com/closedinterval/babel-preset",
+  "homepage": "https://github.com/weikinhuang/babel-preset-closedinterval",
   "engines": {
     "npm": ">=3.0.0"
   },
