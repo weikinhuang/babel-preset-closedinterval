@@ -1,6 +1,6 @@
 {
   "name": "babel-preset-closedinterval",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "description": "Babel preset for ClosedInterval",
   "main": "index.js",
   "repository": {
